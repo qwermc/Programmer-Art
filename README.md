@@ -5,4 +5,4 @@ qwermc' Programmer Art is a resource pack  that aims to return the classic Minec
 ![](https://raw.githubusercontent.com/qwermc/Programmer-Art/main/screenshots/Screenshot_20230426_011522.jpg)
 ![](https://raw.githubusercontent.com/qwermc/Programmer-Art/main/screenshots/Screenshot_20230426_011550.jpg)
 ![](https://raw.githubusercontent.com/qwermc/Programmer-Art/main/screenshots/Screenshot_20230426_011627.jpg)
-# [More info & Download](https://www.qwermc.gq/content/progart)
+# [More info](https://www.qwermc.gq/content/progart)
